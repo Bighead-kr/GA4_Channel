@@ -1,0 +1,55 @@
+[{
+  "channel_group": "Self-referral",
+  "orders": "321",
+  "mean": "70.92",
+  "p25": "30.0",
+  "median": "49.0",
+  "p75": "82.0",
+  "p95": "211.0",
+  "max_order": "840.0"
+}, {
+  "channel_group": "Paid Search",
+  "orders": "205",
+  "mean": "75.87",
+  "p25": "27.0",
+  "median": "48.0",
+  "p75": "88.0",
+  "p95": "236.0",
+  "max_order": "607.0"
+}, {
+  "channel_group": "Unknown",
+  "orders": "903",
+  "mean": "71.05",
+  "p25": "25.0",
+  "median": "48.0",
+  "p75": "83.0",
+  "p95": "192.0",
+  "max_order": "1170.0"
+}, {
+  "channel_group": "Referral",
+  "orders": "392",
+  "mean": "67.97",
+  "p25": "28.0",
+  "median": "48.0",
+  "p75": "84.0",
+  "p95": "188.0",
+  "max_order": "514.0"
+}, {
+  "channel_group": "Organic Search",
+  "orders": "1613",
+  "mean": "66.32",
+  "p25": "26.0",
+  "median": "48.0",
+  "p75": "85.0",
+  "p95": "172.0",
+  "max_order": "806.0"
+}, {
+  "channel_group": "Direct",
+  "orders": "1017",
+  "mean": "70.34",
+  "p25": "28.0",
+  "median": "46.0",
+  "p75": "84.0",
+  "p95": "192.0",
+  "max_order": "1530.0"
+}]

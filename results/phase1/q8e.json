@@ -1,0 +1,7 @@
+[{
+  "events": "4786",
+  "unique_transactions": "4451",
+  "revenue_raw": "330348.0",
+  "revenue_dedup": "307640.0",
+  "overstated_pct": "6.87"
+}]

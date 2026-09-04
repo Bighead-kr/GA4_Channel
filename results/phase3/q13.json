@@ -1,0 +1,9 @@
+[{
+  "purchasers": "4419",
+  "purchase_without_payment_info": "1",
+  "purchase_without_checkout": "0",
+  "purchase_without_cart": "1504",
+  "purchase_without_view_item": "26",
+  "checkout_without_cart": "4058",
+  "cart_without_view_item": "6"
+}]

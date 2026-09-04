@@ -1,0 +1,31 @@
+[{
+  "channel_group": "Organic Search",
+  "orders_valid": "1613",
+  "revenue_valid": "106981.0",
+  "aov_valid": "66.32"
+}, {
+  "channel_group": "Direct",
+  "orders_valid": "1017",
+  "revenue_valid": "71535.0",
+  "aov_valid": "70.34"
+}, {
+  "channel_group": "Unknown",
+  "orders_valid": "903",
+  "revenue_valid": "64161.0",
+  "aov_valid": "71.05"
+}, {
+  "channel_group": "Referral",
+  "orders_valid": "392",
+  "revenue_valid": "26645.0",
+  "aov_valid": "67.97"
+}, {
+  "channel_group": "Self-referral",
+  "orders_valid": "321",
+  "revenue_valid": "22764.0",
+  "aov_valid": "70.92"
+}, {
+  "channel_group": "Paid Search",
+  "orders_valid": "205",
+  "revenue_valid": "15554.0",
+  "aov_valid": "75.87"
+}]

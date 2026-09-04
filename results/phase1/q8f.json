@@ -1,0 +1,19 @@
+[{
+  "txn_status": "valid",
+  "events": "4786",
+  "users": "3713",
+  "revenue": "330348.0",
+  "avg_revenue": "69.02"
+}, {
+  "txn_status": "not set",
+  "events": "883",
+  "users": "767",
+  "revenue": "30489.0",
+  "avg_revenue": "34.53"
+}, {
+  "txn_status": "null",
+  "events": "23",
+  "users": "21",
+  "revenue": "1328.0",
+  "avg_revenue": "57.74"
+}]

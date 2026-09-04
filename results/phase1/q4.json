@@ -1,0 +1,76 @@
+[{
+  "source": "google",
+  "medium": "organic",
+  "name": "(organic)",
+  "users": "103487"
+}, {
+  "source": "(direct)",
+  "medium": "(none)",
+  "name": "(direct)",
+  "users": "75951"
+}, {
+  "source": "\u003cOther\u003e",
+  "medium": "\u003cOther\u003e",
+  "name": "\u003cOther\u003e",
+  "users": "51036"
+}, {
+  "source": "\u003cOther\u003e",
+  "medium": "referral",
+  "name": "(referral)",
+  "users": "32879"
+}, {
+  "source": "shop.googlemerchandisestore.com",
+  "medium": "referral",
+  "name": "(referral)",
+  "users": "26065"
+}, {
+  "source": "(data deleted)",
+  "medium": "(data deleted)",
+  "name": "(data deleted)",
+  "users": "17638"
+}, {
+  "source": "google",
+  "medium": "cpc",
+  "name": "\u003cOther\u003e",
+  "users": "15527"
+}, {
+  "source": "\u003cOther\u003e",
+  "medium": "organic",
+  "name": "(organic)",
+  "users": "10095"
+}, {
+  "source": "(data deleted)",
+  "medium": "(data deleted)",
+  "name": "\u003cOther\u003e",
+  "users": "466"
+}, {
+  "source": "\u003cOther\u003e",
+  "medium": "(data deleted)",
+  "name": "(data deleted)",
+  "users": "393"
+}, {
+  "source": "(data deleted)",
+  "medium": "referral",
+  "name": "(referral)",
+  "users": "3"
+}, {
+  "source": "google",
+  "medium": "\u003cOther\u003e",
+  "name": "\u003cOther\u003e",
+  "users": "1"
+}, {
+  "source": "\u003cOther\u003e",
+  "medium": "referral",
+  "name": "\u003cOther\u003e",
+  "users": "1"
+}, {
+  "source": "\u003cOther\u003e",
+  "medium": "cpc",
+  "name": "\u003cOther\u003e",
+  "users": "1"
+}, {
+  "source": "\u003cOther\u003e",
+  "medium": "\u003cOther\u003e",
+  "name": "(data deleted)",
+  "users": "1"
+}]

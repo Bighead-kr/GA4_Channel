@@ -1,0 +1,69 @@
+[{
+  "event_name": "page_view",
+  "events": "1350428",
+  "users": "269792"
+}, {
+  "event_name": "user_engagement",
+  "events": "1058721",
+  "users": "213004"
+}, {
+  "event_name": "scroll",
+  "events": "493072",
+  "users": "138098"
+}, {
+  "event_name": "view_item",
+  "events": "386068",
+  "users": "61252"
+}, {
+  "event_name": "session_start",
+  "events": "354970",
+  "users": "267116"
+}, {
+  "event_name": "first_visit",
+  "events": "257462",
+  "users": "257314"
+}, {
+  "event_name": "view_promotion",
+  "events": "190104",
+  "users": "102443"
+}, {
+  "event_name": "add_to_cart",
+  "events": "58543",
+  "users": "12545"
+}, {
+  "event_name": "begin_checkout",
+  "events": "38757",
+  "users": "9715"
+}, {
+  "event_name": "select_item",
+  "events": "31007",
+  "users": "13180"
+}, {
+  "event_name": "view_search_results",
+  "events": "26172",
+  "users": "14449"
+}, {
+  "event_name": "add_shipping_info",
+  "events": "19722",
+  "users": "9714"
+}, {
+  "event_name": "add_payment_info",
+  "events": "13899",
+  "users": "5751"
+}, {
+  "event_name": "select_promotion",
+  "events": "9450",
+  "users": "8164"
+}, {
+  "event_name": "purchase",
+  "events": "5692",
+  "users": "4419"
+}, {
+  "event_name": "click",
+  "events": "1446",
+  "users": "1010"
+}, {
+  "event_name": "view_item_list",
+  "events": "71",
+  "users": "44"
+}]

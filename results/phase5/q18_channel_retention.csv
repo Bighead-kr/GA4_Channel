@@ -1,0 +1,55 @@
+channel_group,cohort_size,rel_week,retained_users,retention_pct
+Direct,15820,0,15820,100.0
+Direct,15820,1,767,4.85
+Direct,15820,2,360,2.28
+Direct,15820,3,284,1.8
+Direct,15820,4,217,1.37
+Direct,15820,5,115,0.73
+Direct,15820,6,73,0.46
+Direct,15820,7,52,0.33
+Direct,15820,8,46,0.29
+Organic Search,25471,0,25471,100.0
+Organic Search,25471,1,1283,5.04
+Organic Search,25471,2,614,2.41
+Organic Search,25471,3,378,1.48
+Organic Search,25471,4,276,1.08
+Organic Search,25471,5,170,0.67
+Organic Search,25471,6,123,0.48
+Organic Search,25471,7,80,0.31
+Organic Search,25471,8,76,0.3
+Paid Search,3618,0,3618,100.0
+Paid Search,3618,1,187,5.17
+Paid Search,3618,2,70,1.93
+Paid Search,3618,3,69,1.91
+Paid Search,3618,4,49,1.35
+Paid Search,3618,5,31,0.86
+Paid Search,3618,6,16,0.44
+Paid Search,3618,7,6,0.17
+Paid Search,3618,8,9,0.25
+Referral,6158,0,6158,100.0
+Referral,6158,1,324,5.26
+Referral,6158,2,126,2.05
+Referral,6158,3,105,1.71
+Referral,6158,4,80,1.3
+Referral,6158,5,52,0.84
+Referral,6158,6,21,0.34
+Referral,6158,7,18,0.29
+Referral,6158,8,17,0.28
+Self-referral,3274,0,3274,100.0
+Self-referral,3274,1,130,3.97
+Self-referral,3274,2,62,1.89
+Self-referral,3274,3,54,1.65
+Self-referral,3274,4,40,1.22
+Self-referral,3274,5,21,0.64
+Self-referral,3274,6,15,0.46
+Self-referral,3274,7,12,0.37
+Self-referral,3274,8,7,0.21
+Unknown,12015,0,12015,100.0
+Unknown,12015,1,538,4.48
+Unknown,12015,2,267,2.22
+Unknown,12015,3,156,1.3
+Unknown,12015,4,134,1.12
+Unknown,12015,5,88,0.73
+Unknown,12015,6,58,0.48
+Unknown,12015,7,39,0.32
+Unknown,12015,8,26,0.22

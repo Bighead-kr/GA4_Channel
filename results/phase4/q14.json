@@ -1,0 +1,67 @@
+[{
+  "channel_group": "Organic Search",
+  "users": "101742",
+  "user_share_pct": "37.7",
+  "buyers": "1551",
+  "orders": "1879",
+  "revenue": "116320.0",
+  "revenue_share_pct": "34.3",
+  "cvr_pct": "1.52",
+  "aov": "61.91",
+  "arpu": "1.14"
+}, {
+  "channel_group": "Direct",
+  "users": "64109",
+  "user_share_pct": "23.7",
+  "buyers": "1009",
+  "orders": "1248",
+  "revenue": "78727.0",
+  "revenue_share_pct": "23.2",
+  "cvr_pct": "1.57",
+  "aov": "63.08",
+  "arpu": "1.23"
+}, {
+  "channel_group": "Unknown",
+  "users": "50001",
+  "user_share_pct": "18.5",
+  "buyers": "888",
+  "orders": "1088",
+  "revenue": "70463.0",
+  "revenue_share_pct": "20.8",
+  "cvr_pct": "1.78",
+  "aov": "64.76",
+  "arpu": "1.41"
+}, {
+  "channel_group": "Referral",
+  "users": "25257",
+  "user_share_pct": "9.3",
+  "buyers": "412",
+  "orders": "490",
+  "revenue": "30459.0",
+  "revenue_share_pct": "9.0",
+  "cvr_pct": "1.63",
+  "aov": "62.16",
+  "arpu": "1.21"
+}, {
+  "channel_group": "Self-referral",
+  "users": "14763",
+  "user_share_pct": "5.5",
+  "buyers": "330",
+  "orders": "404",
+  "revenue": "26569.0",
+  "revenue_share_pct": "7.8",
+  "cvr_pct": "2.24",
+  "aov": "65.76",
+  "arpu": "1.8"
+}, {
+  "channel_group": "Paid Search",
+  "users": "14282",
+  "user_share_pct": "5.3",
+  "buyers": "218",
+  "orders": "248",
+  "revenue": "16919.0",
+  "revenue_share_pct": "5.0",
+  "cvr_pct": "1.53",
+  "aov": "68.22",
+  "arpu": "1.18"
+}]

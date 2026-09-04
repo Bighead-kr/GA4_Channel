@@ -1,0 +1,13 @@
+[{
+  "channel_group": "Organic Search", "cohort_size": "25471", "w1_pct": "5.04", "w4_pct": "1.08", "w8_pct": "0.3"
+}, {
+  "channel_group": "Direct", "cohort_size": "15820", "w1_pct": "4.85", "w4_pct": "1.37", "w8_pct": "0.29"
+}, {
+  "channel_group": "Unknown", "cohort_size": "12015", "w1_pct": "4.48", "w4_pct": "1.12", "w8_pct": "0.22"
+}, {
+  "channel_group": "Referral", "cohort_size": "6158", "w1_pct": "5.26", "w4_pct": "1.3", "w8_pct": "0.28"
+}, {
+  "channel_group": "Paid Search", "cohort_size": "3618", "w1_pct": "5.17", "w4_pct": "1.35", "w8_pct": "0.25"
+}, {
+  "channel_group": "Self-referral", "cohort_size": "3274", "w1_pct": "3.97", "w4_pct": "1.22", "w8_pct": "0.21"
+}]

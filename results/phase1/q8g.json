@@ -1,0 +1,31 @@
+[{
+  "channel_group": "Organic Search",
+  "purchase_events": "1989",
+  "unidentifiable": "266",
+  "unidentifiable_pct": "13.4"
+}, {
+  "channel_group": "Direct",
+  "purchase_events": "1326",
+  "unidentifiable": "231",
+  "unidentifiable_pct": "17.4"
+}, {
+  "channel_group": "Unknown",
+  "purchase_events": "1155",
+  "unidentifiable": "185",
+  "unidentifiable_pct": "16.0"
+}, {
+  "channel_group": "Referral",
+  "purchase_events": "529",
+  "unidentifiable": "98",
+  "unidentifiable_pct": "18.5"
+}, {
+  "channel_group": "Self-referral",
+  "purchase_events": "427",
+  "unidentifiable": "83",
+  "unidentifiable_pct": "19.4"
+}, {
+  "channel_group": "Paid Search",
+  "purchase_events": "266",
+  "unidentifiable": "43",
+  "unidentifiable_pct": "16.2"
+}]

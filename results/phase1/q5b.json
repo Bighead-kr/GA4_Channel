@@ -1,0 +1,25 @@
+[{
+  "channel_group": "Organic Search",
+  "users": "101742",
+  "pct": "37.7"
+}, {
+  "channel_group": "Direct",
+  "users": "64109",
+  "pct": "23.7"
+}, {
+  "channel_group": "Unknown",
+  "users": "50001",
+  "pct": "18.5"
+}, {
+  "channel_group": "Referral",
+  "users": "25257",
+  "pct": "9.3"
+}, {
+  "channel_group": "Self-referral",
+  "users": "14763",
+  "pct": "5.5"
+}, {
+  "channel_group": "Paid Search",
+  "users": "14282",
+  "pct": "5.3"
+}]

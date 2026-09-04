@@ -1,0 +1,103 @@
+[{
+  "key": "ga_session_number",
+  "cnt": "4295584"
+}, {
+  "key": "page_location",
+  "cnt": "4295584"
+}, {
+  "key": "ga_session_id",
+  "cnt": "4295584"
+}, {
+  "key": "page_title",
+  "cnt": "4276104"
+}, {
+  "key": "engaged_session_event",
+  "cnt": "4116237"
+}, {
+  "key": "session_engaged",
+  "cnt": "3996312"
+}, {
+  "key": "debug_mode",
+  "cnt": "3682991"
+}, {
+  "key": "page_referrer",
+  "cnt": "3206512"
+}, {
+  "key": "all_data",
+  "cnt": "2828174"
+}, {
+  "key": "clean_event",
+  "cnt": "2828040"
+}, {
+  "key": "engagement_time_msec",
+  "cnt": "2431818"
+}, {
+  "key": "medium",
+  "cnt": "1439214"
+}, {
+  "key": "campaign",
+  "cnt": "1439167"
+}, {
+  "key": "source",
+  "cnt": "1428080"
+}, {
+  "key": "percent_scrolled",
+  "cnt": "493072"
+}, {
+  "key": "term",
+  "cnt": "338704"
+}, {
+  "key": "entrances",
+  "cnt": "332179"
+}, {
+  "key": "gclid",
+  "cnt": "118481"
+}, {
+  "key": "gclsrc",
+  "cnt": "116846"
+}, {
+  "key": "currency",
+  "cnt": "39313"
+}, {
+  "key": "search_term",
+  "cnt": "26172"
+}, {
+  "key": "unique_search_term",
+  "cnt": "20967"
+}, {
+  "key": "dclid",
+  "cnt": "15701"
+}, {
+  "key": "payment_type",
+  "cnt": "5242"
+}, {
+  "key": "transaction_id",
+  "cnt": "5242"
+}, {
+  "key": "value",
+  "cnt": "5242"
+}, {
+  "key": "tax",
+  "cnt": "5242"
+}, {
+  "key": "shipping_tier",
+  "cnt": "4159"
+}, {
+  "key": "coupon",
+  "cnt": "3075"
+}, {
+  "key": "promotion_name",
+  "cnt": "2270"
+}, {
+  "key": "link_domain",
+  "cnt": "1446"
+}, {
+  "key": "link_url",
+  "cnt": "1446"
+}, {
+  "key": "outbound",
+  "cnt": "1446"
+}, {
+  "key": "link_classes",
+  "cnt": "6"
+}]
