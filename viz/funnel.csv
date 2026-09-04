@@ -1,0 +1,31 @@
+channel,channel_order,step,step_order,users_at_step,pct_of_view_item,step_to_step_pct,is_spendable
+Organic Search,1,view_item,1,22689,100.0,100.0,1
+Organic Search,1,add_to_cart,2,4490,19.8,19.8,1
+Organic Search,1,begin_checkout,3,3490,15.4,77.7,1
+Organic Search,1,add_payment_info,4,2027,8.9,58.1,1
+Organic Search,1,purchase,5,1557,6.9,76.8,1
+Direct,2,view_item,1,14491,100.0,100.0,0
+Direct,2,add_to_cart,2,3096,21.4,21.4,0
+Direct,2,begin_checkout,3,2295,15.8,74.1,0
+Direct,2,add_payment_info,4,1336,9.2,58.2,0
+Direct,2,purchase,5,1011,7.0,75.7,0
+Unknown,3,view_item,1,11511,100.0,100.0,0
+Unknown,3,add_to_cart,2,2429,21.1,21.1,0
+Unknown,3,begin_checkout,3,1892,16.4,77.9,0
+Unknown,3,add_payment_info,4,1139,9.9,60.2,0
+Unknown,3,purchase,5,889,7.7,78.1,0
+Referral,4,view_item,1,5759,100.0,100.0,1
+Referral,4,add_to_cart,2,1186,20.6,20.6,1
+Referral,4,begin_checkout,3,914,15.9,77.1,1
+Referral,4,add_payment_info,4,550,9.6,60.2,1
+Referral,4,purchase,5,414,7.2,75.3,1
+Self-referral,5,view_item,1,3684,100.0,100.0,0
+Self-referral,5,add_to_cart,2,747,20.3,20.3,0
+Self-referral,5,begin_checkout,3,661,17.9,88.5,0
+Self-referral,5,add_payment_info,4,419,11.4,63.4,0
+Self-referral,5,purchase,5,330,9.0,78.8,0
+Paid Search,6,view_item,1,3118,100.0,100.0,1
+Paid Search,6,add_to_cart,2,597,19.1,19.1,1
+Paid Search,6,begin_checkout,3,463,14.8,77.6,1
+Paid Search,6,add_payment_info,4,280,9.0,60.5,1
+Paid Search,6,purchase,5,218,7.0,77.9,1

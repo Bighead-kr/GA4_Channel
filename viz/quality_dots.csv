@@ -1,0 +1,37 @@
+metric,metric_order,metric_label,channel,channel_order,raw_value,mean_value,pct_dev_from_mean,is_spendable
+users,1,유입 유저수,Organic Search,1,101742.0,45025.67,126.0,1
+users,1,유입 유저수,Direct,2,64109.0,45025.67,42.4,0
+users,1,유입 유저수,Unknown,3,50001.0,45025.67,11.0,0
+users,1,유입 유저수,Referral,4,25257.0,45025.67,-43.9,1
+users,1,유입 유저수,Self-referral,5,14763.0,45025.67,-67.2,0
+users,1,유입 유저수,Paid Search,6,14282.0,45025.67,-68.3,1
+view_item_rate,2,view_item 도달률(%),Organic Search,1,22.3,22.92,-2.7,1
+view_item_rate,2,view_item 도달률(%),Direct,2,22.6,22.92,-1.4,0
+view_item_rate,2,view_item 도달률(%),Unknown,3,23.0,22.92,0.4,0
+view_item_rate,2,view_item 도달률(%),Referral,4,22.8,22.92,-0.5,1
+view_item_rate,2,view_item 도달률(%),Self-referral,5,25.0,22.92,9.1,0
+view_item_rate,2,view_item 도달률(%),Paid Search,6,21.8,22.92,-4.9,1
+view_to_purchase,3,퍼널 전환율(%),Organic Search,1,6.86,7.45,-7.9,1
+view_to_purchase,3,퍼널 전환율(%),Direct,2,6.98,7.45,-6.3,0
+view_to_purchase,3,퍼널 전환율(%),Unknown,3,7.72,7.45,3.6,0
+view_to_purchase,3,퍼널 전환율(%),Referral,4,7.19,7.45,-3.5,1
+view_to_purchase,3,퍼널 전환율(%),Self-referral,5,8.96,7.45,20.3,0
+view_to_purchase,3,퍼널 전환율(%),Paid Search,6,6.99,7.45,-6.2,1
+median_order,4,주문금액 중앙값($),Organic Search,1,48.0,47.83,0.3,1
+median_order,4,주문금액 중앙값($),Direct,2,46.0,47.83,-3.8,0
+median_order,4,주문금액 중앙값($),Unknown,3,48.0,47.83,0.3,0
+median_order,4,주문금액 중앙값($),Referral,4,48.0,47.83,0.3,1
+median_order,4,주문금액 중앙값($),Self-referral,5,49.0,47.83,2.4,0
+median_order,4,주문금액 중앙값($),Paid Search,6,48.0,47.83,0.3,1
+arpu,5,ARPU($),Organic Search,1,1.14,1.33,-14.2,1
+arpu,5,ARPU($),Direct,2,1.23,1.33,-7.4,0
+arpu,5,ARPU($),Unknown,3,1.41,1.33,6.1,0
+arpu,5,ARPU($),Referral,4,1.21,1.33,-8.9,1
+arpu,5,ARPU($),Self-referral,5,1.8,1.33,35.5,0
+arpu,5,ARPU($),Paid Search,6,1.18,1.33,-11.2,1
+w1_retention,6,W1 리텐션(%),Organic Search,1,5.04,4.79,5.1,1
+w1_retention,6,W1 리텐션(%),Direct,2,4.85,4.79,1.1,0
+w1_retention,6,W1 리텐션(%),Unknown,3,4.48,4.79,-6.6,0
+w1_retention,6,W1 리텐션(%),Referral,4,5.26,4.79,9.7,1
+w1_retention,6,W1 리텐션(%),Self-referral,5,3.97,4.79,-17.2,0
+w1_retention,6,W1 리텐션(%),Paid Search,6,5.17,4.79,7.8,1

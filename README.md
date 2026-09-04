@@ -2,6 +2,8 @@
 
 Google Merchandise Store의 GA4 공개 데이터로 **"어떤 유입 채널이 트래픽을 데려오고, 어떤 채널이 실제로 사는 유저·남는 유저를 데려오는가"** 를 분석한 포트폴리오 프로젝트.
 
+- **대시보드:** [Tableau Public](https://public.tableau.com/app/profile/.18082116/viz/GA4_17884980209280/1_1)
+
 - **데이터:** `bigquery-public-data.ga4_obfuscated_sample_ecommerce.events_*` (2020-11-01 ~ 2021-01-31, 92일 / 이벤트 429만 · 유저 27만 · 세션 36만)
 - **실행 환경:** BigQuery Console (샌드박스, 월 1TB 무료 한도 내)
 - **분석 문서 (source of truth):** 노션 "📊 GA4 유입 채널 성과 분석 — 포트폴리오" — 질문·판단 근거·해석 전문

@@ -1,0 +1,7 @@
+channel,channel_order,users,user_pct,is_spendable
+Organic Search,1,101742,37.7,1
+Direct,2,64109,23.7,0
+Unknown,3,50001,18.5,0
+Referral,4,25257,9.3,1
+Self-referral,5,14763,5.5,0
+Paid Search,6,14282,5.3,1

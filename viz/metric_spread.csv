@@ -1,0 +1,7 @@
+metric,metric_order,metric_label,spread_all6_pp,spread_spendable3_pp
+users,1,유입 유저수,194.2,185.7
+view_item_rate,2,view_item 도달률(%),14.0,4.5
+view_to_purchase,3,퍼널 전환율(%),28.2,4.7
+median_order,4,주문금액 중앙값($),6.3,0.0
+arpu,5,ARPU($),49.7,5.9
+w1_retention,6,W1 리텐션(%),26.9,4.3
